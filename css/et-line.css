@@ -517,3 +517,11 @@
 .et-icon-dribbble:before {
     content: "\e063"
 }
+
+.blanc_title {
+    color: white !important;
+}
+
+.btn-red {
+    background-color: #b71e02 !important;
+}
