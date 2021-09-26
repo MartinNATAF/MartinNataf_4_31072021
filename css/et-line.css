@@ -529,3 +529,7 @@
 .black {
     color: black !important;
 }
+
+.souligne {
+    text-decoration: underline;
+} 
